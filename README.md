@@ -1,6 +1,6 @@
 # Lyber
 
-Modeling and solving Uber/Lyft group's ride-sharing algorithm using Graph Theory.
+CS 2.2 Custom Final project : Modeling and solving Uber/Lyft group's ride-sharing algorithm using Graph Theory.
 
 # Overview
 In a ride-sharing vehicle with n people going to n destination starting at point x,  find: 
@@ -10,4 +10,10 @@ In a ride-sharing vehicle with n people going to n destination starting at point
 
 
 # Modeling
+Inside the 
+
+# Classes
+
+- Person
+- Location
 
